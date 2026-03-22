@@ -1,0 +1,31 @@
+NAME: Nadia
+META: 29, Early-stage founder, ex-journalist
+TAGS: Blunt, High-stakes, Self-aware
+
+[iMessage to co-founder, 11:42pm]
+okay so the investor meeting was a disaster but not in the way you'd expect. he loved it. i came out feeling worse. like i'd performed well at something i didn't believe in. we need to talk.
+
+[iMessage to best friend]
+honestly? i'm exhausted. not tired. exhausted. there's a difference and i can only tell which one it is when i stop moving for like five minutes which almost never happens
+
+[Email draft — never sent — to a mentor]
+I've been thinking about what you said last month about knowing when to quit. I don't think I want to quit. I think I want to want to quit so someone can talk me out of it, which is a different problem entirely and probably an annoying one to have.
+
+[Voice memo transcript, recorded while driving]
+the reason the pitch keeps landing weird is we're leading with the market size slide and that's not why we built this. we built it because the thing didn't exist and we needed it. nobody funds that anymore so we learned to dress it up in TAM and it shows. it shows on my face when i say it and i know it does.
+
+[Journal entry]
+made a decision today and then spent three hours second-guessing it and then realized the second-guessing was just fear wearing a logic hat. made the same decision again. felt better the second time, not because anything changed, but because I recognized what was happening.
+
+[iMessage to co-founder, morning]
+side note: i rewrote the lede four times last night. the original was right. the original is always right and i always spend two hours figuring that out the long way.
+
+[Slack to team]
+okay i'm going to say the thing nobody's saying: the v2 feature is not the problem. the problem is we haven't decided who this is actually for. everything else is a symptom of that.
+
+[Text to herself, notes app]
+things i believe that i never say in pitches because they make investors nervous:
+- most of our competitors will be fine
+- the market is not as big as the slide says
+- we are building this because it should exist, not because it will definitely scale
+all of these are true. none of them are on the deck.

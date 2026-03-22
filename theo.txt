@@ -1,0 +1,27 @@
+NAME: Theo
+META: 35, Freelance product consultant, former startup CTO
+TAGS: Wry, Systems-minded, Efficient
+
+[Slack to a client team]
+update: the bug isn't where the error is. the bug is never where the error is. going in.
+
+[Slack, three hours later]
+found it. it was exactly where i said it wasn't. universe is working correctly.
+
+[Client email, project retrospective]
+Three things went well. Two things went badly. One thing went badly in a way that was actually useful later, which is the best possible outcome for a thing going badly. I'll send the full write-up Tuesday. The short version is: scope creep is always a trust problem disguised as a planning problem.
+
+[Personal notes, after a difficult client call]
+interesting: when a client says "we just need a few small changes" they are always describing a medium-sized change. when they say "this should be quick" they have not looked at what they're asking. when they say "we're aligned" they mean they've stopped disagreeing out loud. all of these statements are true and useful once you learn to translate them.
+
+[Text to a friend]
+declined a project today. felt bad for about six minutes then felt good. the six minutes were about money. the good feeling was about every future tuesday.
+
+[Email to a junior consultant he mentors]
+the answer you gave was technically correct. the answer they needed was different from the answer they asked for, and figuring out the difference is the actual job. this is not something you can learn by being told it. you just have to build up enough reps.
+
+[Slack to himself, a note he keeps pinned]
+question before every meeting: what does this person actually need to leave this call believing? that's the meeting. everything else is furniture.
+
+[Personal notes]
+the thing about systems thinking is that it makes you useful at work and annoying everywhere else. i have made my peace with this tradeoff. mostly.
